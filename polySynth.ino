@@ -1,62 +1,15 @@
-
+#include <Arduino.h>
 #include <MIDI.h>
-
 #include <avr/interrupt.h> // Use timer interrupt library
 
 
-void flash(){
-  digitalWrite(13, !digitalRead(13));
-  delay(10);
-  digitalWrite(13, !digitalRead(13));
-}
+#include "error.h"
 
-void error(int i){
-  while(true){
-    for(int j = 0; j < i; j++){
-      flash();
-      delay(100);
-    }
-    delay(400);
-  }
-}
 
-void swap (unsigned int *a, unsigned int *b){
-    int temp = *a;
-    *a = *b;
-    *b = temp;
-}
-/*
-void randomize ( unsigned int arr[], int n ){
- 
-    // Start from the last element and swap one by one. We don't
-    // need to run for the first element that's why i > 0
-    for (int i = n-1; i > 0; i--)
-    {
-        // Pick a random index from 0 to i
-        int j = random(i+1);
- 
-        // Swap arr[i] with the element at random index
-        swap(&arr[i], &arr[j]);
-    }
-}
-*/
+#include "noteData.cpp"
 
 #define NOTECOUNT 127
 unsigned int period[NOTECOUNT];
-
-
-#define REFPD 2273
-#define REFIX 57
-#define TUNING 1.05946309436
-
-void generate_period(){
-  for(int i = 0; i < NOTECOUNT; i++){
-    period[i] = REFPD * pow(TUNING, REFIX - i);
-  }
-  
-  //randomize(period + 40, 60);
-}
-
 
 #define VOICECOUNT 8
 struct voice{
@@ -89,18 +42,8 @@ void setup(){
   TCCR1A |= (1 << WGM10); // Use 8-bit fast PWM mode
   TCCR1B |= (1 << WGM12);
   //write to OCR1AL to adjust voltage
-
-//  /******** Set up timer2 to call ISR ********/
-//  TCCR2A = 0; // No options in control register A
-//  TCCR2B = (1 << CS21); // Set prescaler to divide by 8
-//  TIMSK2 = (1 << OCIE2A); // Call ISR when TCNT2 = OCRA2
-//  OCR2A = 255; // Set frequency of wave updates
-//  //freq = 16MHz / prescaler / OCR2A = 62.5 kHz
   
-  generate_period();
-  
-//  sei(); // Enable interrupts to generate waveform!
-  
+  equal_tempered::generate_scale(period, period+NOTECOUNT);
   
 }
 
@@ -129,36 +72,12 @@ void loop(){
   OCR1AL = 255 / von * vup;
 }
 
+
+
+
 void serialEvent(){
   MIDI.read();
 }
-
-
-
-
-
-
-//ISR(TIMER0_COMPA_vect){
-//  flash();
-//  static unsigned long now = micros();
-//  
-//  for(int i = 0; i < VOICECOUNT; i++){
-//    if(voices[i].vel == 0 && voices[i].lastvel == 0)
-//      continue;
-//    
-//    if(now > voices[i].time){
-//      voices[i].time = now + period[voices[i].note];
-//      if(voices[i].lastvel == 0){
-//        OCR1AL += voices[i].vel;
-//        voices[i].lastvel = voices[i].vel;
-//      } else {
-//        OCR1AL -= voices[i].lastvel;
-//        voices[i].lastvel == 0;
-//      }
-//    }
-//  }
-//  flash();  
-//}
 
 
 void HandleNoteOff (byte channel, byte note, byte velocity){
