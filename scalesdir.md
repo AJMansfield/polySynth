@@ -322,13 +322,14 @@
 | barton2.scl | 11 | Jacob Barton, mode of 88CET, TL 17-01-2007 |
 | beardsley_8.scl | 8 | David Beardsley's scale used in "Sonic Bloom" (1999) |
 | bedos.scl | 12 | Temperament of Dom François Bédos de Celles (1770), after M. Tessmer |
-belet.scl	13	Belet, Brian 1992	Proceedings of the ICMC pp.158-161.
+| belet.scl | 13 | Belet, Brian 1992; Proceedings of the ICMC pp.158-161. |
 | bellingwolde.scl | 12 | Current 1/6-P. comma mod.mean of Freytag organ in Bellingwolde. Ortgies,2002 |
 | bellingwolde_org.scl | 12 | Original tuning of the Freytag organ in Bellingwolde |
 | bell_mt_partials.scl | 9 | Partials of major third bell. 1/1=523.5677 Hz, André Lehr, 2006. 9=hum note |
 | belobog31.scl | 31 | Belobog[31] hobbit in 626-tET, commas 3136/3125, 441/440 |
 | bemetzrieder2.scl | 12 | Anton Bemetzrieder temperament nr. 2 (1808), is Vallotti in F# |
-bendeler-b.scl	12	Die Brüche nach Bendeler, Jerzy Erdmann: Ein Rechenmodell für historische Mensurationsmethoden,	bendeler.scl	12	J. Ph. Bendeler well temperament
+| bendeler-b.scl | 12 | Die Brüche nach Bendeler, Jerzy Erdmann: Ein Rechenmodell für historische Mensurationsmethoden, |
+| bendeler.scl | 12 | J. Ph. Bendeler well temperament |
 | bendeler1.scl | 12 | Bendeler I temperament (c.1690), three 1/3P comma tempered fifths |
 | bendeler2.scl | 12 | Bendeler II temperament (c.1690), three 1/3P comma tempered fifths |
 | bendeler3.scl | 12 | Bendeler III temperament (c.1690), four 1/4P tempered fifths |
@@ -887,7 +888,7 @@ chrom_soft2.scl	7	1:2	Soft Chromatic
 | diaphonic_12.scl | 12 | 12-tone Diaphonic Cycle, conjunctive form on 3/2 and 4/3 |
 | diaphonic_12a.scl | 12 | 2nd 12-tone Diaphonic Cycle, conjunctive form on 10/7 and 7/5 |
 | diaphonic_7.scl | 7 | 7-tone Diaphonic Cycle, disjunctive form on 4/3 and 3/2 |
-diat13.scl	7	This genus is from K.S's	diatonic Hypodorian harmonia
+| diat13.scl | 7 | This genus is from K.S's diatonic Hypodorian harmonia |
 | diat15.scl | 8 | Tonos-15 Diatonic and its own trite synemmenon Bb |
 | diat15_inv.scl | 8 | Inverted Tonos-15 Harmonia, a harmonic series from 15 from 30. |
 | diat17.scl | 8 | Tonos-17 Diatonic and its own trite synemmenon Bb |
@@ -900,7 +901,7 @@ diat13.scl	7	This genus is from K.S's	diatonic Hypodorian harmonia
 | diat27_inv.scl | 8 | Inverted Tonos-27 Harmonia, a harmonic series from 27 from 54 |
 | diat29.scl | 8 | Tonos-29 Diatonic and its own trite synemmenon Bb |
 | diat31.scl | 8 | Tonos-31 Diatonic. The disjunctive and conjunctive diatonic forms are the same |
-diat33.scl	8	Tonos-33 Diatonic. The conjunctive form	is 23 (Bb instead of B) 20 18 33/2
+| diat33.scl | 8 | Tonos-33 Diatonic. The conjunctive form	is 23 (Bb instead of B) 20 18 33/2 |
 | diat_chrom.scl | 7 | Diatonic- Chromatic, on the border between the chromatic and diatonic genera |
 | diat_dies2.scl | 7 | Dorian Diatonic, 2 part Diesis |
 | diat_dies5.scl | 7 | Dorian Diatonic, 5 part Diesis |
@@ -1261,7 +1262,8 @@ dudon_rebab.scl	12	Gazelle, x^5 = 8x^4 - 32,	-c series + comma 953-960, Dudon 20
 | elf87.scl | 87 | Elf[87], a strictly proper MOS of elf, the 224&311 temperament |
 | elfkeenanismic12.scl | 12 | Keenanismic tempered [12/11, 8/7, 6/5, 5/4, 4/3, 11/8, 3/2, 8/5, 5/3, 7/4, 11/6, 2], 284et tunin |
 | elfkeenanismic7.scl | 7 | Keenanismic tempered [8/7, 5/4, 4/3, 3/2, 8/5, 7/4, 2] = cross_7, 284et tuning |
-elfleapday12f.scl	12	Leapday tempering of [21/20, 9/8, 13/11, 14/11, 4/3, 7/5, 3/2, 11/7, 22/13, 16/9, 21/11, 2], in	elfmiracle12.scl	12	Miracle tempered [15/14, 8/7, 7/6, 11/9, 21/16, 7/5, 32/21, 18/11, 12/7, 7/4, 15/8, 2], 72et tun
+| elfleapday12f.scl | 12 | Leapday tempering of [21/20, 9/8, 13/11, 14/11, 4/3, 7/5, 3/2, 11/7, 22/13, 16/9, 21/11, 2], in |
+| elfmiracle12.scl | 12 | Miracle tempered [15/14, 8/7, 7/6, 11/9, 21/16, 7/5, 32/21, 18/11, 12/7, 7/4, 15/8, 2], 72et tun |
 | elfmyna7.scl | 7 | Myna tempered [8/7, 6/5, 7/5, 10/7, 5/3, 7/4, 2] in 58et tuning, 13-limit patent val elf |
 | ellis.scl | 12 | Alexander John Ellis' imitation equal temperament (1875) |
 | ellis_24.scl | 24 | Ellis, from p.421 of Helmholtz, 24 tones of JI for 1 manual harmonium |
@@ -1272,7 +1274,7 @@ elfleapday12f.scl	12	Leapday tempering of [21/20, 9/8, 13/11, 14/11, 4/3, 7/5, 3
 | enh14.scl | 7 | 14/11 Enharmonic |
 | enh15.scl | 7 | Tonos-15 Enharmonic |
 | enh15_inv.scl | 7 | Inverted Enharmonic Tonos-15 Harmonia |
-enh15_inv2.scl	7	Inverted	harmonic form of the enharmonic Tonos-15
+| enh15_inv2.scl | 7 | Inverted harmonic form of the enharmonic Tonos-15 |
 | enh17.scl | 7 | Tonos-17 Enharmonic |
 | enh17_con.scl | 7 | Conjunct Tonos-17 Enharmonic |
 | enh19.scl | 7 | Tonos-19 Enharmonic |
@@ -2014,7 +2016,8 @@ hexany49.scl	6	1.3.21.49	2)4 hexany (1.21 tonic)
 | knot.scl | 24 | Smallest knot in cubic lattice, American Scientist, Nov-Dec '97 p. 506-510, trefoil knot of 24 u |
 | koepf_36.scl | 36 | Siegfried Koepf, 36-tone subset of 48-tone scale (1991) |
 | koepf_48.scl | 48 | Siegfried Koepf, 48-tone scale (1991) |
-kolinski.scl	12	Mieczyslaw Kolinski's 7th root of 3/2 (1959), also invented by Augusto Novaro and Serge Cordier	kora1.scl	7	Kora tuning Tomora Ba, also called Silaba, 1/1=F, R. King
+| kolinski.scl | 12 | Mieczyslaw Kolinski's 7th root of 3/2 (1959), also invented by Augusto Novaro and Serge Cordier |
+| kora1.scl | 7 | Kora tuning Tomora Ba, also called Silaba, 1/1=F, R. King |
 | kora2.scl | 7 | Kora tuning Tomora Mesengo, also called Tomora, 1/1=F, R. King |
 | kora3.scl | 7 | Kora tuning Hardino, 1/1=F, R.King |
 | kora4.scl | 7 | Kora tuning Sauta, 1/1=F, R. King |
@@ -2230,7 +2233,8 @@ kolinski.scl	12	Mieczyslaw Kolinski's 7th root of 3/2 (1959), also invented by A
 | malcolm2.scl | 12 | Malcolm 2, differentially coherent |
 | malcolme.scl | 12 | Most equal interval permutation of Malcolm's Monochord |
 | malcolme2.scl | 12 | Inverse most equal interval permutation of Malcolm's Monochord |
-malcolms.scl	12	Symmetrical version of Malcolm's Monochord and Riley's Albion scale. Also proposed by Hindemith	malcolm_ap.scl	12	Best approximations in mix of all ETs from 12-23 to Malcolm's Monochord
+| malcolms.scl | 12 | Symmetrical version of Malcolm's Monochord and Riley's Albion scale. Also proposed by Hindemith |
+| malcolm_ap.scl | 12 | Best approximations in mix of all ETs from 12-23 to Malcolm's Monochord |
 | malcolm_me.scl | 7 | Malcolm's Mid-East |
 | malerbi.scl | 12 | Luigi Malerbi's well-temperament nr.1 (1794) (nr.2 = Young). Also Sievers |
 | malgache.scl | 12 | tuning from Madagascar |
@@ -2239,7 +2243,8 @@ malcolms.scl	12	Symmetrical version of Malcolm's Monochord and Riley's Albion sc
 | malkauns.scl | 5 | Raga Malkauns, inverse of prime_5.scl |
 | mambuti.scl | 8 | African Mambuti Flutes (aerophone; vertical wooden; one note each) |
 | mandela.scl | 14 | One of the 195 other denizens of the dome of mandala, <14 23 36 40| weakly epimorphic |
-mandelbaum5.scl	19	Mandelbaum's 5-limit 19-tone scale, kleismic detempered circle of minor thirds. Per.bl. 81/80 &	mandelbaum7.scl	19	Mandelbaum's 7-limit 19-tone scale
+| mandelbaum5.scl | 19 | Mandelbaum's 5-limit 19-tone scale, kleismic detempered circle of minor thirds. Per.bl. 81/80 & |
+| mandelbaum7.scl | 19 | Mandelbaum's 7-limit 19-tone scale |
 | mandelbaum7keemun.scl | 19 | Keemun Fokkerization of mandelbaum7.scl, Gene Ward Smith, TL 8-3-2012 |
 | mander.scl | 12 | John Pike Mander's Adlington-Hall organ tuning compiled by A.Sparschuh |
 | marimba1.scl | 17 | Marimba of the Bakwese, SW Belgian Congo (Zaire). 1/1=140.5 Hz |
@@ -2495,7 +2500,7 @@ mandelbaum5.scl	19	Mandelbaum's 5-limit 19-tone scale, kleismic detempered circl
 | mgr12.scl | 12 | Modular Golomb Ruler of 12 segments, length 133 |
 | mgr14.scl | 14 | Modular Golomb Ruler of 14 segments, length 183 |
 | mgr18.scl | 18 | Modular Golomb Ruler of 18 segments, length 307 |
-mid_enh1.scl	7	Mid-Mode1 Enharmonic, permutation of Archytas's with the	5/4 lying medially
+| mid_enh1.scl | 7 | Mid-Mode1 Enharmonic, permutation of Archytas's with the 5/4 lying medially |
 | mid_enh2.scl | 7 | Permutation of Archytas' Enharmonic with the 5/4 medially and 28/27 first |
 | miller19.scl | 19 | TOP tempered nr. 64 [1202.9, 570.4479508], 7-limit {225/224, 1029/1000} |
 | miller7.scl | 12 | Herman Miller, 7-limit JI. mode of parizek_ji1 |
@@ -2924,7 +2929,7 @@ mid_enh1.scl	7	Mid-Mode1 Enharmonic, permutation of Archytas's with the	5/4 lyin
 | phryg_enh.scl | 7 | Schlesinger's Phrygian Harmonia in the enharmonic genus |
 | phryg_enhcon.scl | 7 | Harmonic Conjunct Enharmonic Phrygian |
 | phryg_enhinv.scl | 7 | Inverted Schlesinger's Enharmonic Phrygian Harmonia |
-phryg_enhinv2.scl	7	Inverted	harmonic form of Schlesinger's Enharmonic Phrygian
+| phryg_enhinv2.scl | 7 | Inverted harmonic form of Schlesinger's Enharmonic Phrygian |
 | phryg_penta.scl | 7 | Schlesinger's Phrygian Harmonia in the pentachromatic genus |
 | phryg_pis.scl | 15 | The Diatonic Perfect Immutable System in the Phrygian Tonos |
 | phryg_tri1.scl | 7 | Schlesinger's Phrygian Harmonia in the chromatic genus |
@@ -3314,17 +3319,17 @@ phryg_enhinv2.scl	7	Inverted	harmonic form of Schlesinger's Enharmonic Phrygian
 | rousseauw.scl | 12 | Jean-Jacques Rousseau's temperament (1768) |
 | rsr_12.scl | 12 | RSR - 7 limit JI |
 | rvf1.scl | 19 | RVF-1: D-A 695 cents, the increment is 0.25 cents, interval range 49.5 to 75.5 |
-rvf2.scl	19	RVF-2: 695 cents, 0.607 cents, 31-90 cents,	C-A# is 7/4.
+| rvf2.scl | 19 | RVF-2: 695 cents, 0.607 cents, 31-90 cents, C-A# is 7/4. |
 | rvf3.scl | 19 | RVF-3: 694.737, 0.082, 25-97, the fifth E#-B# is 3/2. |
 | rvf4.scl | 12 | 697-703 cents, increments of 1 cent |
 | rvfj_12.scl | 12 | Regularly varied fifths well temperament with just fifth. Op de Coul (2007) |
 | saba_pentachord_13-limit_a.scl | 4 | Saba pentachord 10:11:12:13:15 |
-saba_pentachord_13-limit_b.scl	4	Saba pentachord	22:24:26:28:33
-saba_pentachord_19-limit.scl	5	Saba pentachord	44:48:52:56:57:66
-saba_pentachord_23-limit_a+b.scl	5	Saba pentachord	42:46:50:54:55:63
-saba_pentachord_23-limit_a.scl	4	Saba pentachord	42:46:50:54:63
-saba_pentachord_23-limit_b.scl	4	Saba pentachord	42:46:50:55:63
-saba_pentachord_31-limit.scl	5	Saba pentachord	96:105:114:124:126:144
+| saba_pentachord_13-limit_b.scl | 4 | Saba pentachord 22:24:26:28:33 |
+| saba_pentachord_19-limit.scl | 5 | Saba pentachord	44:48:52:56:57:66 |
+| saba_pentachord_23-limit_a+b.scl | 5 | Saba pentachord	42:46:50:54:55:63 |
+| saba_pentachord_23-limit_a.scl | 4 | Saba pentachord	42:46:50:54:63 |
+| saba_pentachord_23-limit_b.scl | 4 | Saba pentachord	42:46:50:55:63 |
+| saba_pentachord_31-limit.scl | 5 | Saba pentachord	96:105:114:124:126:144 |
 | saba_sup.scl | 8 | Superparticular version of maqam Sabâ |
 | sabbagh.scl | 7 | Tawfiq al-Sabbagh, a composer from Syria. 1/1=G |
 | sabbagh2.scl | 24 | Tawfiq al-Sabbagh, Arabic master musical scale in 53-tET (1954) |
@@ -3406,8 +3411,8 @@ saba_pentachord_31-limit.scl	5	Saba pentachord	96:105:114:124:126:144
 | schulter_44_39-diat1.scl | 7 | Diatonic involving 352:351 and 364:363 |
 | schulter_bamm24b-pegasus12d.scl | 12 | Offshoot of Kraig Grady's Centaur: Rast/Penchgah plus Archytas-like modes on 1/1 |
 | schulter_biapotomic_septimal24.scl | 24 | Biapotomic: two apotomes = 7/6; virtually just 23/16 |
-| schulter_cantonpentalike34.scl_34 | Variation on Gene Ward Smith Cantonpenta, 34-note superset in 271-tET
-schulter_cantonpentamint58.scl_58 | Rank-3 variant on Gene Ward Smith's Cantonpenta with just 12:13:14 |
+| schulter_cantonpentalike34.scl | 34 | Variation on Gene Ward Smith Cantonpenta, 34-note superset in 271-tET
+| schulter_cantonpentamint58.scl | 58 | Rank-3 variant on Gene Ward Smith's Cantonpenta with just 12:13:14 |
 | schulter_christmas_eve24.scl | 24 | ChristmasEve or 12/24, just 14/11; 13 fourths up = ~128/99 |
 | schulter_diat7.scl | 7 | Diatonic scale, symmetrical tetrachords based on 14/11 and 13/11 triads |
 | schulter_ham.scl | 17 | New rational tuning of "Hammond organ type", TL 01-03-2002 |
@@ -3491,7 +3496,8 @@ schulter_cantonpentamint58.scl_58 | Rank-3 variant on Gene Ward Smith's Cantonpe
 | secoralternative10.scl | 10 | George Secor "meantone alternative", {196/195, 676/675}-tempering in POTE tuning of 2.3.5.7.13 s |
 | secor_bicycle.scl | 12 | George Secor, 13-limit harmonic bicycle (1963), also Erv Wilson, see David Rosenthal: Helix Song |
 | secor_pelogic11.scl | 11 | George Secor's isopelogic scale with ~537.84194 generator and just 13/11 (1979) |
-secor_pelogic7.scl	7	George Secor's isopelogic scale with ~537.84194 generator, just 13/11 and near just 11:13:15:19	secor_pelogic9.scl	9	George Secor's isopelogic scale with ~537.84194 generator and just 13/11 (1979)
+| secor_pelogic7.scl | 7 | George Secor's isopelogic scale with ~537.84194 generator, just 13/11 and near just 11:13:15:19 |
+| secor_pelogic9.scl | 9 | George Secor's isopelogic scale with ~537.84194 generator and just 13/11 (1979) |
 | secor_swt149.scl | 12 | George Secor's 149-based synchronous WT |
 | secor_vrwt.scl | 12 | George Secor's Victorian rational well-temperament (based on Ellis #2) |
 | secor_wt1-5.scl | 12 | George Secor's 1/5-comma well-temperament (ratios supplied by G. W. Smith) |
@@ -3504,8 +3510,8 @@ secor_pelogic7.scl	7	George Secor's isopelogic scale with ~537.84194 generator, 
 | secor_wtpb-24c.scl | 12 | George Secor's 24-triad proportional-beating well-temperament (24c) |
 | secor_wtpb-24d.scl | 12 | George Secor's 24-triad proportional-beating well-temperament (24d) |
 | secor_wtpb-24e.scl | 12 | George Secor's 24-triad proportional-beating well-temperament (24e) |
-segah_pentachord_17-limit.scl	4	Segah pentachord	42:45:51:56:63
-segah_pentachord_5-limit.scl	4	Segah pentachord	30:32:36:40:45
+| segah_pentachord_17-limit.scl | 4 | Segah pentachord 42:45:51:56:63 |
+| segah_pentachord_5-limit.scl | 4 | Segah pentachord 30:32:36:40:45 |
 | segah-ferahnak_pentachord_19-limit.scl | 5 | Segah-Ferahnak pentachord 14:15:17:19:20:21 |
 | segah2.scl | 7 | Iranian mode Segah from C |
 | segah99.scl | 7 | segah_rat in 99-tET tempering |
@@ -3764,9 +3770,9 @@ segah_pentachord_5-limit.scl	4	Segah pentachord	30:32:36:40:45
 | smithgw_sc19.scl | 19 | Fokker block from commas <81/80, 78732/78125>, Gene Ward Smith 2002 |
 | smithgw_sch13.scl | 29 | 13-limit schismic temperament, g=704.3917, TL 31-10-2002 |
 | smithgw_sch13a.scl | 29 | 13-limit schismic temperament, g=702.660507, TL 31-10-2002 |
-smithgw_scj22a.scl	22	<3125/3072	250/243> Fokker block
-smithgw_scj22b.scl	22	<2048/2025	250/243> Fokker block
-smithgw_scj22c.scl	22	<2048/2025	3125/3072> Fokker block
+| smithgw_scj22a.scl | 22 | <3125/3072 250/243> Fokker block |
+| smithgw_scj22b.scl | 22 | <2048/2025 250/243> Fokker block |
+| smithgw_scj22c.scl | 22 | <2048/2025 3125/3072> Fokker block |
 | smithgw_secab.scl | 10 | {126/125, 176/175} tempering of decab, 328-et version |
 | smithgw_secac.scl | 10 | {126/125, 176/175} tempering of decac, 328-et version |
 | smithgw_secad.scl | 10 | {126/125, 176/175} tempering of decad, 328-et version |
@@ -3832,7 +3838,7 @@ smithgw_scj22c.scl	22	<2048/2025	3125/3072> Fokker block
 | spanyi.scl | 12 | Miklós Spányi Bach temperament (2007) |
 | sparschuh-2009well885Hz.scl | 12 | Andreas Sparschuh, modern pianos with an fusing 3rd: C-E ~+0.654...c "sharp" above 5/4 |
 | sparschuh-442widefrench5th-a.scl | 12 | Margo Schulter's proposed revision with A at 885/529 |
-sparschuh-442widefrench5th.scl_12	Rational temperament, 1/1=264.5 Hz, Andreas Sparschuh (2008)
+| sparschuh-442widefrench5th.scl_12 | Rational temperament, 1/1=264.5 Hz, Andreas Sparschuh (2008) |
 | sparschuh-885organ.scl | 12 | Andreas Sparschuh, for neobaroque pipe-organs with fusing 3rds C-E, G-B & F-A (2009) |
 | sparschuh-eleven_eyes.scl | 12 | 12 out of 53 starting from a'=440Hz |
 | sparschuh-epimoric7.scl | 12 | Sparschuh's epimoric two- and one-7th part of syntonic comma (2010) |
@@ -4276,7 +4282,8 @@ sparschuh-442widefrench5th.scl_12	Rational temperament, 1/1=264.5 Hz, Andreas Sp
 | turkish_bagl.scl | 17 | Ratios of the 17 frets on the neck of "Baglama" ("saz") according to Yalçýn Tura |
 | turkish_bestenigar_on_b.scl | 12 | Turkish Bestenigar with perde iraq on B by Dr. Oz. |
 | turkish_buselik_on_d.scl | 10 | Turkish Buselik with perde buselik on E by Dr. Oz. |
-turkish_huseyni_and_neva.scl	10	Turkish Huseyni and Neva (also Tahir, Muhayyer, Gerdaniye, simple Isfahan & Gulizar) with perde	turkish_mahur_and_penchgah.scl_10	Turkish Mahur and Penchgah with perde rast on C by Dr. Oz.
+| turkish_huseyni_and_neva.scl | 10 | Turkish Huseyni and Neva (also Tahir, Muhayyer, Gerdaniye, simple Isfahan & Gulizar) with perde |
+| turkish_mahur_and_penchgah.scl | 10 | Turkish Mahur and Penchgah with perde rast on C by Dr. Oz. |
 | turkish_mahur_and_zavil.scl | 10 | Turkish Mahur and Zavil with perde rast on C by Dr. Oz. |
 | turkish_nishabur_on_e.scl | 9 | Turkish Nishabur with perde buselik on E by Dr. Oz. |
 | turkish_rast_and_penchgah_on_c.scl | 9 | Turkish Rast, Acemli Rast and Penchgah with perde rast on C by Dr. Ozan Yarman |
@@ -4289,7 +4296,9 @@ turkish_huseyni_and_neva.scl	10	Turkish Huseyni and Neva (also Tahir, Muhayyer, 
 | turko-arabic_(kurdili)hijazkar-suznak-nawruz_neveser_nikriz_on_c.scl | 12 | Mixture of Turkish and Arabic intonations of Hijazkar, Kurdili-Hijazkar, Suznak, Nawruz, (Kurdil |
 | turko-arabic_(kurdili)neveser_and_nikriz_on_c.scl | 11 | Mixture of Turkish and Arabic intonations of Neveser, Kurdili Neveser, and Nikriz with perde ras |
 | turko-arabic_hijaz-humayun-zirgule_on_d.scl | 12 | Mixture of Turkish and Arabic intonations of Hijaz, Humayun, and Zirgule with perde dugah on D b |
-turko-arabic_hijazkar_and_kurdili-hijazkar_on_c.scl	10	Mixture of Turkish and Arabic intonations of Hijazkar and Kurdili Hijazkar with perde rast on C	turko-arabic_iraq-awdj_and_ferahnak_on_b.scl	12	Mixture of Turkish and Arabic intonations of Iraq/Awdj and Ferahnak with perde iraq on B by Dr.	turko-arabic_karjighar-bayati_shuri_on_d.scl	10	Mixture of Turkish and Arabic intonations of Karjighar (Bayati Shuri) with perde dugah on D by D
+| turko-arabic_hijazkar_and_kurdili-hijazkar_on_c.scl | 10 | Mixture of Turkish and Arabic intonations of Hijazkar and Kurdili Hijazkar with perde rast on C |
+| turko-arabic_iraq-awdj_and_ferahnak_on_b.scl | 12 | Mixture of Turkish and Arabic intonations of Iraq/Awdj and Ferahnak with perde iraq on B by Dr. |
+| turko-arabic_karjighar-bayati_shuri_on_d.scl | 10 | Mixture of Turkish and Arabic intonations of Karjighar (Bayati Shuri) with perde dugah on D by D |
 | turko-arabic_kurdi_buselik_nishabur_on_d.scl | 12 | Mixture of Turkish and Arabic intonations of Kurdi, Buselik and Nishabur with perde dugah on D a |
 | turko-arabic_kurdi_on_d.scl | 7 | Mixture of Turkish and Arabic intonations of Kurdi with perde dugah on D by Dr. Oz. |
 | turko-arabic_nihavend(murassah)_zanjaran_on_c.scl | 12 | Mixture of Turkish and Arabic intonations of Nihavend (Murassah) and Zanjaran with perde rast on |
@@ -4317,8 +4326,8 @@ turko-arabic_hijazkar_and_kurdili-hijazkar_on_c.scl	10	Mixture of Turkish and Ar
 | urmawi.scl | 7 | al-Urmawi, one of twelve maqam rows. First tetrachord is Rast |
 | uruk.scl | 17 | Jon Lyle Smith's "Uruk" scale |
 | ushaq99.scl | 8 | yarman_ushaq in 99ef tempering |
-ushshaq_tetrachord_11-limit.scl	3	Ushshaq tetrachord	81:88:96:108
-ushshaq_tetrachord_19-limit.scl	3	Ushshaq tetrachord	96:105:114:128
+| ushshaq_tetrachord_11-limit.scl | 3 | Ushshaq tetrachord 81:88:96:108 |
+| ushshaq_tetrachord_19-limit.scl | 3 | Ushshaq tetrachord 96:105:114:128 |
 | ushshaq_tetrachord_23-limit.scl | 3 | Ushshaq tetrachord 21:23:25:28 |
 | vaisvil_70.scl | 70 | Chris Vaisvil, disjunct 70 tones |
 | vaisvil_goldsilver.scl | 9 | Chris Vaisvil, notes from golden and silver section scales combined, TL 09-05-2009 |
@@ -4392,7 +4401,8 @@ ushshaq_tetrachord_19-limit.scl	3	Ushshaq tetrachord	96:105:114:128
 | weingarten2.scl | 12 | Temperament of Gabler organ in Weingarten after restauration (1983) |
 | weiss1.scl | 105 | J.J. Weiss, system 1 qanun tuning (1990), Stefan Pohlit thesis, 2011 |
 | weiss2.scl | 105 | J.J. Weiss, system 2 qanun tuning (2007), Stefan Pohlit thesis, 2011 |
-weiss_mandal.scl	72	J.J. Weiss, tempered Mandal Set, tuning for Turkish qanun based on 18/17, Stefan Pohlit thesis,	wellfip17.scl	17	17-note lesfip scale, 11-limit diamond target, 8.6 to 10.8 cents tolerance
+| weiss_mandal.scl | 72 | J.J. Weiss, tempered Mandal Set, tuning for Turkish qanun based on 18/17, Stefan Pohlit thesis, |
+| wellfip17.scl | 17 | 17-note lesfip scale, 11-limit diamond target, 8.6 to 10.8 cents tolerance |
 | wendell1.scl | 12 | Robert Wendell's Natural Synchronous well-temperament (2003) |
 | wendell1r.scl | 12 | Rational version of wendell1.scl by Gene Ward Smith |
 | wendell2.scl | 12 | Robert Wendell's Very Mild Synchronous well-temperament (2003) |
@@ -4429,7 +4439,8 @@ weiss_mandal.scl	72	J.J. Weiss, tempered Mandal Set, tuning for Turkish qanun ba
 | wier_cl.scl | 12 | Danny Wier, ClownTone (2003) |
 | wier_j.scl | 12 | Danny Wier, 8 1/4P, 4 -1/4P temperament |
 | wiese1.scl | 12 | Christian Ludwig Gustav von Wiese's 1/2P-comma temperament no. 1 (1793) |
-wiese3.scl	12	Christian Ludwig Gustav von Wiese's 1/2P-comma temperament no. 3 (1793). Also Grammateus (1518)	wilson-rastbayyati24.scl	24	Erv Wilson scale from Rast/Bayyati matrix (27/22, 11/9)
+| wiese3.scl | 12 | Christian Ludwig Gustav von Wiese's 1/2P-comma temperament no. 3 (1793). Also Grammateus (1518) |
+| wilson-rastbayyati24.scl | 24 | Erv Wilson scale from Rast/Bayyati matrix (27/22, 11/9) |
 | wilson1.scl | 19 | Wilson's 19-tone Scott scale (1976) |
 | wilson11.scl | 19 | Wilson 11-limit 19-tone scale (1977) |
 | wilson1t.scl | 19 | Wilson's Scott scale, wilson1, in minimax minerva tempering |
@@ -4499,14 +4510,17 @@ wiese3.scl	12	Christian Ludwig Gustav von Wiese's 1/2P-comma temperament no. 3 (
 | yarman24b-rational2.scl | 24 | 24-tone maqam music tuning with 12-tones tempered in the style of Rameau's modified meantone and |
 | yarman24b.scl | 24 | 24-tone maqam music tuning with 12-tones tempered in the style of Rameau's modified meantone and |
 | yarman24c.scl | 24 | 24-tone maqam music tuning with 12-tones tempered in the style of Rameau's modified meantone and |
-yarman24d-equalizedmtfifth.scl_24	24-tone maqam music tuning with 12-tones tempered in the style of Rameau's modified meantone and
-yarman31b-rational-practical.scl	31	Yarman24b extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting	yarman31b-rational.scl	31	Yarman24b extended to 31 notes using missing "comma" flats and sharps --rationalized
+| yarman24d-equalizedmtfifth.scl | 24 | 24-tone maqam music tuning with 12-tones tempered in the style of Rameau's modified meantone and |
+| yarman31b-rational-practical.scl | 31 | Yarman24b extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting |
+| yarman31b-rational.scl | 31 | Yarman24b extended to 31 notes using missing "comma" flats and sharps --rationalized |
 | yarman31b.scl | 31 | Yarman24b extended to 31 notes using missing "comma" flats and sharps |
-yarman31c-rational-practical.scl	31	Yarman24c extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting	yarman31c-rational.scl	31	Yarman24c extended to 31 notes using missing "comma" flats and sharps --rationalized
+| yarman31c-rational-practical.scl | 31 | Yarman24c extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting |
+| yarman31c-rational.scl | 31 | Yarman24c extended to 31 notes using missing "comma" flats and sharps --rationalized |
 | yarman31c.scl | 31 | Yarman24c extended to 31 notes using missing "comma" flats and sharps |
 | yarman31c_final.scl | 31 | Yarman24c extended to 31 notes using missing "comma" flats and sharps --FINAL version |
-yarman31d-equalizedmtfifth.scl_31	Yarman24d extended to 31 notes using missing "comma" flats and sharps
-yarman31d-rational-practical.scl	31	Yarman24d extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting	yarman31d-rational.scl	31	Yarman24d extended to 31 notes using missing "comma" flats and sharps --rationalized
+| yarman31d-equalizedmtfifth.scl | 31 | Yarman24d extended to 31 notes using missing "comma" flats and sharps |
+| yarman31d-rational-practical.scl | 31 | Yarman24d extended to 31 notes using missing "comma" flats and sharps --rationalized & fretting |
+| yarman31d-rational.scl | 31 | Yarman24d extended to 31 notes using missing "comma" flats and sharps --rationalized |
 | yarman36a_nr1-438hz.scl | 36 | Triplex Modified Meantone Temperaments spaced at 11/9 from G and 5/3 from C#, A=438.410457150843 |
 | yarman36a_nr2-440hz.scl | 36 | Triplex Modified Meantone Temperaments spaced at 11/9 from G and 5/3 from C#, A=440hz |
 | yarman36b.scl | 36 | 12-tone bike-chains equally dividing the 441/220 octave like yarman36a |
@@ -4553,7 +4567,7 @@ yarman31d-rational-practical.scl	31	Yarman24d extended to 31 notes using missing
 | zesster_c.scl | 8 | Harmonic six-star, group C on Eb, from Fokker |
 | zesster_mix.scl | 16 | Harmonic six-star, groups A, B and C mixed, from Fokker |
 | zest24-persian_Eb.scl | 17 | Version somewhat like Darius Anooshfar's persian.scl, Eb-Eb |
-zest24-supergoya17plus3_Db.scl_20	Goya-17 plus 484, 676, and 1180 cents
+| zest24-supergoya17plus3_Db.scl | 20 | Goya-17 plus 484, 676, and 1180 cents |
 | zest24.scl | 24 | Zarlino Extraordinaire Spectrum Temperament (two circles at ~50.28c apart) |
 | zeta12.scl | 12 | Margo Schulter's Zeta Centauri tuning inspired by Kraig Grady's Centaur |
 | zeus22.scl | 22 | Zeus[22] hobbit (121/120&176/175) in POTE tuning |
@@ -4563,5 +4577,4 @@ zest24-supergoya17plus3_Db.scl_20	Goya-17 plus 484, 676, and 1180 cents
 | zex46.scl | 46 | Irregularized Zeus[46] |
 | zir_bouzourk.scl | 6 | Zirafkend Bouzourk (IG #3, DF #9), from both Rouanet and Safi al-Din |
 | zwolle.scl | 12 | Henri Arnaut De Zwolle. Pythagorean on G flat. |
-| zwolle2.scl | 12 | Henri Arnaut De Zwolle's modified meantone tuning (c. 1440)
- |
+| zwolle2.scl | 12 | Henri Arnaut De Zwolle's modified meantone tuning (c. 1440) |
