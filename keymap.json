@@ -6,13 +6,13 @@
 
 		"key": 0,
 		"tone": 0,
-		"length": 64
+		"length": 128
 	},{
 		"tuning":"tuning/ptolmy.scl",
 
 		"key": 64,
 		"tone": 0,
-		"length": 64
+		"length": 32
 	}
 	]
 }
