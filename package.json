@@ -1,0 +1,19 @@
+{
+  "name": "polysynth",
+  "version": "1.0.0",
+  "description": "Polyphonic Arduino MIDI Synthesizer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJMansfield/polySynth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJMansfield/polySynth/issues"
+  },
+  "homepage": "https://github.com/AJMansfield/polySynth#readme"
+}
