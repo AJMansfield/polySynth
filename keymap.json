@@ -1,0 +1,18 @@
+
+{
+	"segments":[
+	{
+		"tuning":"tuning/et.scl",
+
+		"key": 0,
+		"tone": 0,
+		"length": 64
+	},{
+		"tuning":"tuning/ptolmy.scl",
+
+		"key": 64,
+		"tone": 0,
+		"length": 64
+	}
+	]
+}

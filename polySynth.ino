@@ -6,14 +6,15 @@
 #include "error.h"
 
 
-#include "noteData.cpp"
+//#include "noteData.cpp"
 
 
 #define NOTECOUNT 127
-unsigned int period[NOTECOUNT];
+#include "tuning.cpp"
+unsigned int period[tuning_len];
 
 void generate_period(){
-    tuning::generate_scale(period, period+NOTECOUNT, tuning::test_tuning );
+    memcpy(period, tuning, tuning_len*sizeof(unsigned int));
 }
 
 #define VOICECOUNT 2
