@@ -1,5 +1,5 @@
-| [Filename](scl/Filename) | Size | Description |
-| [--------](scl/--------) | ---- | ----------- |
+| Filename | Size | Description |
+| -------- | ---- | ----------- |
 | [05-19.scl](scl/05-19.scl) | 5 | 5 out of 19-tET |
 | [05-22.scl](scl/05-22.scl) | 5 | Pentatonic "generator" of 09-22.scl |
 | [05-24.scl](scl/05-24.scl) | 5 | 5 out of 24-tET, symmetrical |
