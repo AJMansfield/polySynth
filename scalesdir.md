@@ -982,7 +982,7 @@
 | dudon_a.scl | 7 | Dudon Tetrachord A |
 | dudon_afshari.scl | 12 | Avaz-e-Afshari -c JI interpretation |
 | dudon_aka.scl | 12 | Cylf-scale (Baka sequence- pentatonic Slendro plus pure fifths) |
-dudon_aksand.scl	12	Fractal Aksaka - c sequence	(x^2 - x = 1/4), 16:20:24:29:35, plus 163
+| dudon_aksand.scl | 12 | Fractal Aksaka - c sequence	(x^2 - x = 1/4), 16:20:24:29:35, plus 163 |
 | dudon_aluna.scl | 12 | Chromatic scale based on F25, with turkish 31/25 segahs and many different thirds |
 | dudon_amlak.scl | 12 | Amlak recurrent sequence (x^2 = x + 1/3), as a matrix for Ethiopian scales |
 | dudon_appalachian.scl | 12 | Synchronous beating quasi-1/4 syntonic comma meantone temperament |
@@ -1025,7 +1025,7 @@ dudon_aksand.scl	12	Fractal Aksaka - c sequence	(x^2 - x = 1/4), 16:20:24:29:35,
 | dudon_countrysongs.scl | 12 | CDEG chords and all transpositions equal-beating meantone sequence |
 | dudon_country_blues.scl | 12 | Differentially-coherent 12 tones country blues scale |
 | dudon_crying_commas.scl | 12 | Pentatonic differentiallly-coherent scale with crying commas |
-dudon_darbari.scl	12	Darbari Kanada	(midnight raga)
+| dudon_darbari.scl | 12 | Darbari Kanada (midnight raga) |
 | dudon_diat.scl | 7 | Dudon Neutral Diatonic |
 | dudon_diatess.scl | 12 | Sequence of 11 Diatess fifths from Eb (75) |
 | dudon_didymus.scl | 12 | Greek-genre scale rich in commas |
@@ -1044,9 +1044,9 @@ dudon_darbari.scl	12	Darbari Kanada	(midnight raga)
 | dudon_hiroyoshi.scl | 12 | Japanese koto most famous mode, also Ethiopian minor scale, etc. |
 | dudon_homayun.scl | 12 | Homayun in G |
 | dudon_hoomi.scl | 12 | Hoomi singing scale in F/F# (on black keys), or in C or G, CFGAC^equal-beating sequence |
-dudon_ifbis.scl	12	Ifbis -c recurrent sequence:	x^5 - x^3 = 1 (not traditional)
+| dudon_ifbis.scl | 12	Ifbis -c recurrent sequence: x^5 - x^3 = 1 (not traditional) |
 | dudon_iph-arax.scl | 6 | Iph-Arax heptatone |
-dudon_isrep.scl	12	Fractal Isrep -c recurrent sequence,	x^2 = 8x - 8	from F=64
+| dudon_isrep.scl | 12 | Fractal Isrep -c recurrent sequence, x^2 = 8x - 8 from F=64 | 
 | dudon_jamlak.scl | 12 | Cycle of fifths developped around a 19-limit Amlak sequence |
 | dudon_jazz.scl | 12 | Jazz in 7 tones |
 | dudon_jobim.scl | 12 | Triple equal-beating 1/5 syntonic comma meantone, full 12 tones scale |
@@ -1073,11 +1073,11 @@ dudon_isrep.scl	12	Fractal Isrep -c recurrent sequence,	x^2 = 8x - 8	from F=64
 | dudon_melkis_3f.scl | 12 | Sequence of 6 Melkis fourths from G, then 3 pure fourths between C# and E |
 | dudon_meso-iph12.scl | 12 | Partial Meso-Iph fifth transposition of two Iph fractal series (2010) |
 | dudon_meso-iph7.scl | 7 | Neutral diatonic variation based on two Iph fractal series |
-dudon_michemine.scl	12	Triple equal-beating of all minor triads	meantone sequence
+| dudon_michemine.scl | 12 | Triple equal-beating of all minor triads meantone sequence |
 | dudon_mohajira.scl | 7 | Dudon's Mohajira, neutral diatonic. g^5-g^4=1/2 |
 | dudon_mohajira_r.scl | 7 | Jacques Dudon, JI Mohajira, Lumières audibles |
 | dudon_moha_baya.scl | 7 | Mohajira + Bayati (Dudon) 3 + 4 + 3 Mohajira and 3 + 3 + 4 Bayati tetrachords |
-dudon_mougi.scl	12	Tsigan-style raga, based on the	19/16 minor third -c properties
+| dudon_mougi.scl | 12 | Tsigan-style raga, based on the 19/16 minor third -c properties |
 | dudon_mounos.scl | 12 | Mounos extended fifths -c sequence, quasi-septimal minor diatonic scale |
 | dudon_nan-kouan.scl | 12 | Nan-Kouan (medieval chinese ballade) scale interpretation |
 | dudon_napolitan.scl | 12 | Napolitan scale, class-1 differential coherence ; whole tone scale by omitting C |
@@ -1100,7 +1100,7 @@ dudon_mougi.scl	12	Tsigan-style raga, based on the	19/16 minor third -c properti
 | dudon_rast-iph63.scl | 7 | Neutral diatonic composed of Rast and Iph tetrachords, based on F and 3F series |
 | dudon_rast-mohajira.scl | 12 | Rast + Mohajira -c quartertones set |
 | dudon_rast_matrix.scl | 12 | Wusta-Zalzal Arijaom sequence with Rast on white keys and other maqamat |
-dudon_rebab.scl	12	Gazelle, x^5 = 8x^4 - 32,	-c series + comma 953-960, Dudon 2009
+| dudon_rebab.scl | 12 | Gazelle, x^5 = 8x^4 - 32, -c series + comma 953-960, Dudon 2009 |
 | dudon_s-n-buzurg.scl | 12 | Decaphonic system inspired by medieval Persian mode Buzurg (Safi al-Din) |
 | dudon_saba-c.scl | 12 | Differentially coherent version of Maqam Saba |
 | dudon_sapaan.scl | 12 | 7 tones from a sequence of Sapaan very low fifths (in theory 680.015678 c.) |
@@ -1516,7 +1516,8 @@ dudon_rebab.scl	12	Gazelle, x^5 = 8x^4 - 32,	-c series + comma 953-960, Dudon 20
 | grady_centaur.scl | 12 | Kraig Grady's 7-limit Centaur scale (1987), Xenharmonikon 16 |
 | grady_centaur17.scl | 17 | 17-tone extension of Centaur, Kraig Grady & Terumi Narushima (2012) |
 | grady_centaur19.scl | 19 | 19-tone extension of Centaur, Kraig Grady & Terumi Narushima (2012). Optional 10/9, 63/40, 16/9, |
-grammateus.scl	12	H. Grammateus (Heinrich Schreiber) (1518). B-F# and Bb-F 1/2 P. Also Marpurg nr.6 and Baron von	graupner.scl	12	Johann Gottlieb Graupner's temperament (1819)
+| grammateus.scl | 12 | H. Grammateus (Heinrich Schreiber) (1518). B-F# and Bb-F 1/2 P. Also Marpurg nr.6 and Baron von |
+| graupner.scl | 12 | Johann Gottlieb Graupner's temperament (1819) |
 | groenewald.scl | 12 | Jürgen Grönewald, new meantone temperament (2001) |
 | groenewald_21.scl | 21 | Jürgen Grönewald, just tuning (2000) |
 | groenewald_bach.scl | 12 | Jürgen Grönewald, simplified Bach temperament, Ars Organi vol.57 no.1, March 2009, p.39 |
@@ -1670,7 +1671,7 @@ grammateus.scl	12	H. Grammateus (Heinrich Schreiber) (1518). B-F# and Bb-F 1/2 P
 | hexany12.scl | 6 | 3.5.7.9 Hexany on 3.9 |
 | hexany13.scl | 6 | 1.3.5.11 Hexany on 1.11 |
 | hexany14.scl | 6 | 5.11.13.15 Hexany (5.15), used in The Giving, by Stephen J. Taylor |
-hexany15.scl	5	1.3.5.15	2)4 hexany (1.15 tonic) degenerate, symmetrical pentatonic
+| hexany15.scl | 5 | 1.3.5.15 2)4 hexany (1.15 tonic) degenerate, symmetrical pentatonic |
 | hexany16.scl | 5 | 1.3.9.27 Hexany, a degenerate pentatonic form |
 | hexany17.scl | 5 | 1.5.25.125 Hexany, a degenerate pentatonic form |
 | hexany18.scl | 5 | 1.7.49.343 Hexany, a degenerate pentatonic form |
@@ -1686,7 +1687,7 @@ hexany15.scl	5	1.3.5.15	2)4 hexany (1.15 tonic) degenerate, symmetrical pentaton
 | hexany26.scl | 5 | 1.9.11.99 Hexany, a degenerate pentatonic form |
 | hexany3.scl | 12 | Hexany Cluster 3 |
 | hexany4.scl | 12 | Hexany Cluster 4 |
-hexany49.scl	6	1.3.21.49	2)4 hexany (1.21 tonic)
+| hexany49.scl | 6 | 1.3.21.49 2)4 hexany (1.21 tonic) |
 | hexany5.scl | 12 | Hexany Cluster 5 |
 | hexany6.scl | 12 | Hexany Cluster 6, periodicity block 125/108 and 135/128 |
 | hexany7.scl | 12 | Hexany Cluster 7 |
