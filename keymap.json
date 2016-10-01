@@ -2,16 +2,28 @@
 {
 	"segments":[
 	{
-		"tuning":"tuning/et.scl",
+		"tuning":"standard.scl",
 
 		"key": 0,
 		"tone": 0,
 		"length": 128
 	},{
-		"tuning":"tuning/ptolmy.scl",
+		"tuning":"scl/meansept3.scl",
+
+		"key": 32,
+		"tone": 32,
+		"length": 32
+	},{
+		"tuning":"scl/lumma_prismt.scl",
 
 		"key": 64,
-		"tone": 0,
+		"tone": 32,
+		"length": 32
+	},{
+		"tuning":"standard.scl",
+
+		"key": 96,
+		"tone": 32,
 		"length": 32
 	}
 	]
