@@ -702,7 +702,7 @@
 | chrom_new.scl | 7 | New Chromatic genus 4.5 + 9 + 16.5 |
 | chrom_new2.scl | 7 | New Chromatic genus 14/3 + 28/3 + 16 parts |
 | chrom_soft.scl | 7 | 100/81 Chromatic. This genus is a good approximation to the soft chromatic |
-chrom_soft2.scl	7	1:2	Soft Chromatic
+| chrom_soft2.scl | 7 | 1:2 Soft Chromatic |
 | chrom_soft3.scl | 7 | Soft chromatic genus from Kathleen Schlesinger's modified Mixolydian Harmonia |
 | chrys_diat-1st-ji.scl | 7 | Chrysanthos JI Diatonic and 1st Byzantine Liturgical mode |
 | chrys_diatenh-var-ji.scl | 7 | JI interpretation of Chrysanthos Diatonic-Enharmonic Byzantine mode |
