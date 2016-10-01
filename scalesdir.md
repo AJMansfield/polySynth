@@ -140,7 +140,7 @@
 | al-hwarizmi.scl | 6 | Al-Hwarizmi's tetrachord division |
 | al-kindi.scl | 6 | Al-Kindi's tetrachord division |
 | al-kindi2.scl | 14 | Arabic mode by al-Kindi |
-al-mausili.scl	11	Arabic mode by Ishaq al-Mausili,	? - 850 AD
+| al-mausili.scl | 11 | Arabic mode by Ishaq al-Mausili, ? - 850 AD |
 | alembert.scl | 12 | Jean-Le Rond d'Alembert modified meantone (1752) |
 | alembert2.scl | 12 | d'Alembert (?) |
 | alves.scl | 13 | Bill Alves, tuning for "Instantaneous Motion", 1/1 vol. 6/3 |
@@ -148,7 +148,8 @@ al-mausili.scl	11	Arabic mode by Ishaq al-Mausili,	? - 850 AD
 | alves_22.scl | 22 | 11-limit rational interpretation of 22-tET, Bill Alves, TL 9-1-98 |
 | amity.scl | 39 | Amity temperament, g=339.508826, 5-limit |
 | amity53pure.scl | 53 | Amity[53] in pure-fifths tuning |
-ammerbach.scl	12	Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im süddeutschen Orgelbau p.	ammerbach1.scl	12	Elias Mikolaus Ammerbach (1571, 1583) interpretation 1, Ratte, 1991
+| ammerbach.scl | 12 | Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im süddeutschen Orgelbau p. |
+| ammerbach1.scl | 12 | Elias Mikolaus Ammerbach (1571, 1583) interpretation 1, Ratte, 1991 |
 | ammerbach2.scl | 12 | Elias Mikolaus Ammerbach (1571, 1583) interpretation 2, Ratte, 1991 |
 | angklung.scl | 8 | Scale of an anklung set from Tasikmalaya. 1/1=174 Hz |
 | ankara.scl | 34 | Ankara Turkish State Radio Tanbur Frets |
